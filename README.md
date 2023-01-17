@@ -9,7 +9,7 @@ This organization will contain a curated list of showcase projects, sample proje
 Swanky dApps will be a community project where anyone is encouraged to contribute and discuss!
 At the moment, the [Astar Foundation](https://github.com/AstarNetwork) and the ShidenDAO is maintaining and curating the repositories, we wish to give more power to the community.
 
-If you wish to be involved, please send us a message!
+If you wish to be involved, please send us a message on Twitter @Swanky_wasm.
 
 ## What is this repository?
 
